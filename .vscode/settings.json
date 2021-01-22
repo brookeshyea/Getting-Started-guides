@@ -1,0 +1,6 @@
+{
+    "xd.globalEditor": false,
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
